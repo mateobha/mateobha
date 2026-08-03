@@ -49,5 +49,5 @@ _Automatically updated on 2026-08-03 15:18 — Ecuador time._
 
 ## Contact
 
-- LinkedIn: [Add your LinkedIn profile](YOUR_LINKEDIN_URL)
-- Email: [Add your professional email](mailto:YOUR_EMAIL)
+- LinkedIn: [mateo-herrera-machlearn](https://www.linkedin.com/in/mateo-herrera-machlearn)
+- Email: [mateo.bha@outlook.com](mailto:mateo.bha@outlook.com)
