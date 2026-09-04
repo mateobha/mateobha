@@ -1,4 +1,4 @@
-# Hi, I'm Mateo Herrera 👋
+# Hi, I'm Mateo 👋
 
 I build solutions at the intersection of artificial intelligence, software
 engineering, data science and biotechnology.
