@@ -1,7 +1,7 @@
 # Hi, I'm Mateo 👋
 
-I build solutions at the intersection of artificial intelligence, machine
-learning, data science and biotechnology.
+I build solutions at the intersection of machine learning, data analysis,
+artificial intelligence, and biotechnology.
 
 ## About me
 
@@ -11,17 +11,13 @@ end-to-end with data — from collection, cleaning, and integration to analysis,
 model development, and deployment.
 
 🔭 **What I'm working on**
-- Data Science & Machine Learning: Python, SQL, statistics, predictive
-  modeling, feature engineering, and end-to-end ML pipelines
-- Deep Learning & Computer Vision: neural networks, CNNs, YOLO, and OpenCV
-  for image-based prediction and classification
-- GenAI & LLMs: RAG, semantic search, NLP, prompt engineering, and AI agents
-  using OpenAI and Anthropic ecosystems
-- Applied AI for Science & Health: developing data-driven solutions for
-  biotechnology, infectious diseases, antimicrobial resistance, and public health
 
-💼 Growing as a Data Scientist / ML Engineer, focused on turning complex data
-into reliable, deployable, and high-impact solutions.
+- **Applied Data Science:** turning complex health and biological data into actionable insights and decision-support solutions.
+- **Predictive Machine Learning:** building models for classification, prediction, and risk assessment across healthcare and biological applications.
+- **AI for Infectious Diseases & AMR:** developing data-driven approaches to anticipate infectious disease emergence and antimicrobial resistance.
+- **ML for Biological Systems:** applying statistical modeling and machine learning to biological processes, computer vision, and experimental data.
+
+💼 Growing as a **Data Scientist / ML Engineer**, focused on building reliable, real-world machine learning solutions.
 
 ## Main technologies
 
