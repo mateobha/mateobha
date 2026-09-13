@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import os
 import re
-from collections import Counter
 from datetime import datetime
 from pathlib import Path
 from typing import Any
@@ -85,42 +84,17 @@ def generate_dynamic_section(
 ) -> str:
     """Generate the Markdown that will be inserted into the README."""
 
-    total_stars = sum(
-        repository.get("stargazers_count", 0)
-        for repository in repositories
-    )
-
-    language_counts = Counter(
-        repository["language"]
-        for repository in repositories
-        if repository.get("language")
-    )
-
-    top_languages = ", ".join(
-        f"`{language}`"
-        for language, _ in language_counts.most_common(6)
-    )
-
-    if not top_languages:
-        top_languages = "No language information available."
-
     lines = [
-        "### GitHub snapshot",
-        "",
-        f"- **Active public repositories:** {len(repositories)}",
-        f"- **Stars across active repositories:** {total_stars}",
-        f"- **Most-used repository languages:** {top_languages}",
-        "",
-        "### Recently updated projects",
+        "### Featured project",
         "",
     ]
 
-    recent_repositories = repositories[:6]
+    featured_repository = repositories[:1]
 
-    if not recent_repositories:
+    if not featured_repository:
         lines.append("No public projects are currently available.")
     else:
-        for repository in recent_repositories:
+        for repository in featured_repository:
             language = repository.get("language") or "Mixed"
             stars = repository.get("stargazers_count", 0)
             pushed_date = repository["pushed_at"][:10]
