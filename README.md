@@ -36,10 +36,10 @@ model development, and deployment.
 <!-- AUTO-GENERATED:START -->
 ### Featured project
 
-- **[Mosquito-Data-Management-System](https://github.com/mateobha/Mosquito-Data-Management-System)** — Sitio oficial de descarga y soporte de Mosquito Data Management System (monitoreo de ovitrampas).
-  - `Mixed` · ⭐ 0 · Updated `2026-09-13`
+- **[Mosquito-Data-Management-System-Galapagos](https://github.com/mateobha/Mosquito-Data-Management-System-Galapagos)** — Sitio oficial de descarga y soporte de Mosquito Data Management System — INSPI Galápagos
+  - `Mixed` · ⭐ 0 · Updated `2026-11-16`
 
-_Automatically updated on 2026-11-16 09:11 — Ecuador time._
+_Automatically updated on 2026-11-17 10:04 — Ecuador time._
 <!-- AUTO-GENERATED:END -->
 
 ### Contribution activity
